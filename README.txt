@@ -1,0 +1,1 @@
+This project is a lab exercise required for my Machine Learning course. In this project, house rent prices in India are predicted using a machine learning model.
